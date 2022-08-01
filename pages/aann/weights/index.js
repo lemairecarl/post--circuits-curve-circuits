@@ -91,8 +91,7 @@ export default cofab(({ weights, fvs_3a, fvs_3b }) => {
       <figcaption style={{ alignSelf: 'center', width: 704, marginTop: 5 }}>
         The weights of the artificial artificial neural network closely resemble
         the equivariant weight in the naturally trained network, except their
-        pattern is cleaner because the weights are programmetically generated.
-        equivariance.
+        pattern is cleaner because the weights are programmatically generated.
       </figcaption>
     </Figure>
   )
